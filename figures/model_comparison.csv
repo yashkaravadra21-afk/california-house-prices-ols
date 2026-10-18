@@ -1,0 +1,4 @@
+model,train_rmse,test_rmse,train_r2,test_r2
+Full model,0.6449,0.6567,0.6889,0.6709
+Without geographic features,0.6625,0.6727,0.6717,0.6546
+Without log-transformed features,0.6965,0.7005,0.6371,0.6255
